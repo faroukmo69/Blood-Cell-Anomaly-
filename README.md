@@ -4,7 +4,7 @@
 
 An end-to-end ML project that predicts whether a blood cell is **Normal** or **Anomalous** from 26 biological, imaging, and lab-test features. Includes a full Jupyter notebook (EDA → training → model comparison), an interactive **Streamlit** app for live predictions, and a **FastAPI** REST service for programmatic access.
 
-🔗 **Live Demo:** [mycleanapp.streamlit.app](https://mycleanapp-cwfiw7gku84py84fhjsappx.streamlit.app/)
+🔗 **Live Demo:** [mycleanapp.streamlit.app](https://blood-cell-anomaly.streamlit.app/)
 
 ---
 
